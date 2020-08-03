@@ -1,0 +1,3 @@
+[0716/013205.850:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0717/071305.184:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[0717/102801.597:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
